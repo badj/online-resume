@@ -1,12 +1,12 @@
-# Online Résumé hosted with GitHub Pages 
+# Online Resume hosted with GitHub Pages 
 
 ## Overview
 
-This project is a [personal online résumé](https://badj.github.io/online-resume/) hosted with GitHub Pages. The HTML résumé can be downloaded in PDF or MS Word doc formats.
+This project is a [personal online resume](https://badj.github.io/online-resume/) hosted with GitHub Pages. The HTML resume can be downloaded in PDF or MS Word doc formats.
 
 [![pages-build-deployment](https://github.com/badj/online-resume/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/badj/Online-Resume/actions/workflows/pages/pages-build-deployment)
 
-**Résumé sample**
+**Resume sample**
 
 ![resume-preview.png](images/resume-preview.png)
 
@@ -21,17 +21,17 @@ This project is a [personal online résumé](https://badj.github.io/online-resum
 
 ## Features
 
-- [GitHub hosted résumé HTML page](https://badj.github.io/online-resume/)
-- Downloadable résumé in [**PDF**](https://github.com/badj/online-resume/raw/refs/heads/main/download/JJ_BADENHORST_CV_2025_with_photo.pdf) and [**MS Word docx**](https://github.com/badj/online-resume/raw/refs/heads/main/download/JJ_BADENHORST_CV_2025_with_photo.docx) formats.
+- [GitHub hosted resume HTML page](https://badj.github.io/online-resume/)
+- Downloadable resume in [**PDF**](https://github.com/badj/online-resume/raw/refs/heads/main/download/JJ_BADENHORST_CV_2025_with_photo.pdf) and [**MS Word docx**](https://github.com/badj/online-resume/raw/refs/heads/main/download/JJ_BADENHORST_CV_2025_with_photo.docx) formats.
 
 ***
 
 ## Folder Structure
 
 ```terminaloutput
-├── download/  # Folder containing downloadable résumé files
-├── images/    # Folder containing header headshot image used in HTML résumé and page preview for Readme
-├── index.html # GitHub hosted résumé HTML page
+├── download/  # Folder containing downloadable resume files
+├── images/    # Folder containing header headshot image used in HTML resume and page preview for Readme
+├── index.html # GitHub hosted resume HTML page
 ```
 
 ***
