@@ -38,7 +38,7 @@ This project is a [personal online resume](https://badj.github.io/online-resume/
 
 ## TODO
 
-1. Tweak the header section to make the unused whitespace real estate less prominent.
+1. Tweak the header section to make the unused whitespace less prominent.
 2. Update the contact information in header to be rendered in the same font size as the content - currently rendering smaller on mobile devices.
 3. Update résumé content: Less wording and simplify to decrease pages.
 
