@@ -39,7 +39,7 @@ This project is a [personal online resume](https://badj.github.io/online-resume/
 ## TODO
 
 1. Tweak the header section to make the unused whitespace less prominent.
-2. Update the contact information in header to be rendered in the same font size as the content - currently rendering smaller on mobile devices.
+2. Update PDF and Doc resume download files to match online format,style and matching the reshuffled content.
 3. Update résumé content: Less wording and simplify to decrease pages.
 
 ***
